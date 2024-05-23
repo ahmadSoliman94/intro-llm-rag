@@ -1,3 +1,6 @@
+#### to bulid app using ollama + llama_index with Rag
+[link](https://medium.com/rahasak/build-rag-application-using-a-llm-running-on-local-computer-with-ollama-and-llamaindex-97703153db20)
+
 # LLM Models and RAG Hands-on Guide
 
 Welcome to the LLM Models and RAG Hands-on Guide repository! This guide is designed for technical teams interested in developing basic conversational AI solutions using Retrieval-Augmented Generation (RAG).
