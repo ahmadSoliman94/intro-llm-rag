@@ -1,4 +1,4 @@
-## to bulid app using ollama + llama_index with Rag
+## to build app using ollama + llama_index with Rag
 [link](https://medium.com/rahasak/build-rag-application-using-a-llm-running-on-local-computer-with-ollama-and-llamaindex-97703153db20)
 
 # LLM Models and RAG Hands-on Guide
